@@ -10,6 +10,6 @@
 
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=Html&logoColor=white"/>
