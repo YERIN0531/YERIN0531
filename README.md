@@ -9,4 +9,4 @@
  
 
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="file:///C:/Users/%EC%84%9C%EC%98%88%EB%A6%B0/Downloads/tistory.svg/00000?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="file:///C:/Users/%EC%84%9C%EC%98%88%EB%A6%B0/Downloads/tistory.svg?style=flat-square&logo=Android&logoColor=white"/>
