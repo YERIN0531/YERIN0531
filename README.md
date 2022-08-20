@@ -15,4 +15,5 @@
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=jQuery&logoColor=white">
 
