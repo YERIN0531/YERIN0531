@@ -9,4 +9,4 @@
  
 
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
-<a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-yeriinnn_e-black?style=flat&logo=Instagram&logoColor=white"/></a>
