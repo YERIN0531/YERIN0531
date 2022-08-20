@@ -6,6 +6,8 @@
  * WEDDINGRIN [통합 웨딩홀 서비스 제공 시스템]
  #### TEAM PROJECT  
  * CHECKIN [통합 여행 서비스 제공 시스템] 
+ 
+ <img src="http://www.w3.org/2000/svg">
 <img src=" <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Tistory</title><path d="M0 3a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 18a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m0-9a3 3 0 1 0 6 0 3 3 0 0 0-6 0m9 0a3 3 0 1 0 6 0 3 3 0 0 0-6 0"/></svg>">
 http://www.w3.org/2000/svg
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="http://www.w3.org/2000/svg/000000?style=flat-square&logo=로고&logoColor=black"/></a>
