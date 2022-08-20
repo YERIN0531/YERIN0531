@@ -1,5 +1,4 @@
 ### Hi there, I'm Yerin Seo ! 😃
- * Check My Tistory Link [Yerin-Tistory](https://tjqud531531.tistory.com/)
  
  ### PROJECT
  #### PERSONAL PROJECT
