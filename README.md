@@ -7,11 +7,9 @@
  #### TEAM PROJECT  
  * CHECKIN [통합 여행 서비스 제공 시스템] 
  
-<br>
-<br>
-<br>
-#### LINK
+ #### LINK
  * Check My Link
+<br>
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-yeriinnn_e-946380?style=flat&logo=Instagram&logoColor=white"/></a>
 <br>
