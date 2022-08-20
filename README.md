@@ -8,12 +8,10 @@
  * CHECKIN [통합 여행 서비스 제공 시스템] 
  
  #### LINK
- * Check My Link
-<br>
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-yeriinnn_e-946380?style=flat&logo=Instagram&logoColor=white"/></a>
-<br>
-#### 💎SKIL💎
+
+ #### 💎SKIL💎
 <img src="https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SPRING-3c6d66?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
