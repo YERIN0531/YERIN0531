@@ -8,6 +8,6 @@
  * CHECKIN [통합 여행 서비스 제공 시스템] 
  
 
-<a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="https://tjqud531531.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/-Tistory-black?style=flat&logo=Tistory&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/-tistory-black?style=flat&logo=Tistory&logoColor=white"/>
