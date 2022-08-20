@@ -16,3 +16,4 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JQUERY-586696?style=flat&logo=jQuery&logoColor=white">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YERIN0531&show_icons=true&theme=radical)
