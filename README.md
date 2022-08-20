@@ -1,1 +1,1 @@
-안녕하세요
+### Hi there, I'm Yerin Seo ! 
